@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="newrepo" name="Demonstration repository" version="0.0.1" provider-name="RGCPLAY">
+<addon id="newrepo" name="Demonstration repository" version="0.0.2" provider-name="RGCPLAY">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
 		<info compressed="false">http://raw.github.com/rgcplay10/newrepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/rgcplay10/newrepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/rgcplay10/newrepo/master/repo/</datadir>
+		<datadir zip="true">http://raw.github.com/rgcplay10/plugin.video.BrazucaPlay/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Demonstration Addon</summary>
